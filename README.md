@@ -1,5 +1,8 @@
 # ninebot-es-docs-ru
 Russian documentation about Ninebot ES Kikscooters
+Добавить информацию можно [здесь](https://github.com/igexogen/ninebot-es-docs-ru/issues), либо создав пулл-реквест
+
+
 # 1. Общая информация о самокате
 
 [1.1. Инструкция к самокату](1._Общая_информация_о_самокате/1.1._Инструкция_к_самокату.md)
