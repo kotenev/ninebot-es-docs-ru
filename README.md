@@ -1,5 +1,5 @@
 # ninebot-es-docs-ru
-## Russian documentation about Ninebot ES Kikscooters
+## Russian documentation about Ninebot ES Kickscooters
 
 Добавить информацию можно [здесь](https://github.com/igexogen/ninebot-es-docs-ru/issues), либо создав [пулл-реквест](https://github.com/igexogen/ninebot-es-docs-ru)
 
